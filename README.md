@@ -1,8 +1,12 @@
-# Human-Emotion-Detection
-
 # Human Emotion Detection 🎭
 
 A deep learning-based real-time emotion detection system using facial expression recognition. This project uses OpenCV and a CNN model trained on grayscale face images to classify emotions like happy, sad, angry, surprise, and more.
+
+---
+
+## 📷 Demo Video
+
+> [Demo - Human Emotion Detection](https://drive.google.com/file/d/1WO2Nqg8Z2X0lz-O4dvPC4-y76XLgI7He/view?usp=sharing)
 
 ---
 
@@ -102,12 +106,6 @@ python app.py
 
 ---
 
-## 📷 Sample Output
-
-> _(Optional: Add screenshots or a demo GIF here for better visualization)_
-
----
-
 ## ⚙️ Requirements
 
 - Python 3.7+
@@ -129,18 +127,8 @@ python app.py
 
 ---
 
-## ✅ To-Do
-
-- [ ] Include pre-trained model files with smaller size alternatives
-- [ ] Add web UI (Gradio or Streamlit)
-- [ ] Test on different lighting conditions and real-world scenarios
-
----
-
 ## 📜 License
 
 This project is open-source and available under the [MIT License](LICENSE).
 
 ---
-
-Let me know if you want me to generate a lighter version of the trained model, help upload it to Hugging Face or any other place for easy access!
