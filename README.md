@@ -1,6 +1,6 @@
 # Human Emotion Detection 🎭
 
-A deep learning-based real-time emotion detection system using facial expression recognition. This project uses OpenCV and a CNN model trained on grayscale face images to classify emotions like happy, sad, angry, surprise, and more.
+A deep learning-based real-time emotion detection system using facial expressions. This project uses OpenCV and a CNN model trained on grayscale face images to classify emotions like happy, sad, angry, surprise, and more.
 
 ---
 
